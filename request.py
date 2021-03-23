@@ -1,7 +1,7 @@
 import requests
 import json
 
-url='http://0.0.0.0:5000/api/'
+url='https://intense-refuge-52907.herokuapp.com/app.py'
 
 data={'text':'My name is Aditya and I love music'}
 j_data=json.dumps(data)
